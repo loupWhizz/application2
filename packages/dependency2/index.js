@@ -1,3 +1,3 @@
 export default call = () => {
-  return 'dependency 1, branch test'
+  return 'dependency 2, branch test'
 };
