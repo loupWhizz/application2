@@ -1,6 +1,6 @@
 {
   "name": "dependency2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:loupWhizz/dependency2.git",
   "author": "loup <sebastian@nieciecki.pl>",
